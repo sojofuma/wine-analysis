@@ -1,4 +1,5 @@
-data/secret.txt
-data/*.log
-data/!important.log
-data/**/cache/
+data/
+secret.txt
+*.log
+!important.log
+**/cache/
