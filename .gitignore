@@ -1,7 +1,4 @@
-data/
-
-#特定のファイルを無視
-secret.txt
+data/secret.txt
 #特定の拡張子を無視
 *.log
 #無視を解除
